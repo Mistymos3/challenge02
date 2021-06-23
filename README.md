@@ -1,6 +1,6 @@
 # challenge02
 
-## I was tasked with changing the HTML of a webpage to figure out what needed or missing within the code and to fix it.
+## I was tasked with changing the HTML of a webpage, to figure out what was needed or missing within the code and to fix it. As well as change the semantics.
 
 ## I corrected a link, changed the title of the page, added meta name: keywords, description and viewpoint, changed the structure of the page, and changed some semantic elements of the page.
 
