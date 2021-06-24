@@ -4,4 +4,4 @@
 
 ## I corrected a link, changed the title of the page, added meta name: keywords, description and viewpoint, changed the structure of the page, and changed some semantic elements of the page.
 
-## I am new to HTML and GitHub and was overthinking everything, so this project took a while. My motivation to complete this was knowledge and wanting to learn. I found things within the page code that I wanted to fix but do not know enough to do so...I am more motivated now than when I started.
+## I am new to HTML and GitHub and was overthinking everything, so this project took a while. My motivation to complete this was knowledge and wanting to learn. I found things within the page code that I wanted to fix but could not due to not knowing enough...I am more motivated now than when I started.
